@@ -1,1 +1,1 @@
-# ComputerGraphics
+# 00_picmaker
